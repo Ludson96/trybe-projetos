@@ -17,10 +17,10 @@ Cada projeto abaixo contém um arquivo README com detalhes de cada projetos.
 - [x] 01 - [Lessons Learned][Lessons Learned-url]
 - [x] 02 - [Playground Functions][Playgound-url]
 - [x] 03 - [Pixel Art][Pixels Art-url]
-- [x] 04 - (Projeto Bônus) [Todo List][Todo List-url]
-- [x] 05 - (Projeto Bônus) [Meme Generator][Meme Generator-url]
-- [x] 06 - (Projeto Bônus) [Color Guess][Color Guess-url]
-- [x] 07 - (Projeto Bônus) [Mistery Letter][Mistery Letter-url]
+- [x] 04 - [Todo List][Todo List-url] (Projeto Bônus)
+- [x] 05 - [Meme Generator][Meme Generator-url] (Projeto Bônus)
+- [x] 06 - [Color Guess][Color Guess-url] (Projeto Bônus)
+- [x] 07 - [Mistery Letter][Mistery Letter-url] (Projeto Bônus)
 - [x] 08 - [Trybewarts][Trybe Warts-url]
 - [x] 09 - [ES6 Unit Tests][ES6 Unit Tests-url]
 - [x] 10 - [Zoo Functions][Zoo Functions-url]
