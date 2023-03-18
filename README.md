@@ -4,7 +4,7 @@ Repositório possuí todos os projetos desenvolvido no período que estive na **
 
 <div align="center">
 
-<img height="250px" align="center" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
+<img height="200px" align="center" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
 
 </div>
 
