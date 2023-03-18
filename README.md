@@ -40,10 +40,27 @@ Cada projeto abaixo contém um arquivo README com detalhes de cada projetos.
 
 ### ⚙️ Módulo - Desenvolvimento Back-End
 
-- [x] 19 - Docker Todo List
-- [x] 20 - All For One
-- [x] 21 - One For All
-- [x] 22 - Talker Manager
+- [x] 21 - [Docker To-do list][Docker To-do list-url]
+- [x] 22 - [All For One][All For One-url]
+- [x] 23 - [One For All][One For All-url]
+- [x] 24 - [Talker Manager][Talker Manager-url]
+- [x] 25 - [Store Manager][Store Manager-url]
+- [x] 26 - [Blogs API][Blogs API-url]
+- [x] 27 - [TrybeSmith][TrybeSmith-url]
+- [x] 28 - [Trybers and Dragons][Trybers and Dragons-url]
+- [x] 29 - [Trybe Football Club][Trybe Football Club-url]
+- [x] 30 - [Mongodb Commerce][Mongodb Commerce-url]
+- [x] 31 - [Car Shop][Car Shop-url]
+- [x] 32 - [Delivery App][Delivery App-ulr]
+
+### 🖥️ Módulo - Ciência da Computação
+
+- [ ] 33 - Job Insights (Início 24/03/2023)
+- [ ] 34 - Relatório de Estoque
+- [ ] 35 - Tech News
+- [ ] 36 - Algoritmos
+- [ ] 37 - TING (Trybe Is Not Google)
+- [ ] 38 - Restaurant Orders
 
 [Lessons Learned-url]: https://github.com/Ludson96/project-lessons-learned
 [Playgound-url]: https://github.com/Ludson96/project-playground-functions
@@ -65,3 +82,15 @@ Cada projeto abaixo contém um arquivo README com detalhes de cada projetos.
 [Trivia-url]:https://github.com/Ludson96/project-trivia-react-redux
 [Star Wars Planets Search-url]: https://github.com/Ludson96/project-starwars-planets-search
 [Recipes App-url]: https://github.com/Ludson96/project-recipes-app
+[Docker To-do list-url]: https://github.com/Ludson96/project-docker-todo-list
+[All For One-url]: https://github.com/Ludson96/project-mysql-all-for-one
+[One For All-url]: https://github.com/Ludson96/project-mysql-one-for-all
+[Talker Manager-url]: https://github.com/Ludson96/project-talker-manager
+[Store Manager-url]: https://github.com/Ludson96/project-store-manager
+[Blogs API-url]: https://github.com/Ludson96/project-blogs-api
+[TrybeSmith-url]: https://github.com/Ludson96/project-trybesmith
+[Trybers and Dragons-url]: https://github.com/Ludson96/project-trybers-and-dragons
+[Trybe Football Club-url]: https://github.com/Ludson96/project-trybe-futebol-clube
+[Mongodb Commerce-url]: https://github.com/Ludson96/project-mongodb-commerce
+[Car Shop-url]: https://github.com/Ludson96/project-car-shop
+[Delivery App-ulr]: https://github.com/Ludson96/project-delivery-app
