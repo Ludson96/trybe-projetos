@@ -51,11 +51,11 @@ Cada projeto abaixo contém um arquivo README com detalhes de cada projetos.
 - [x] 29 - [Trybe Football Club][Trybe Football Club-url]
 - [x] 30 - [Mongodb Commerce][Mongodb Commerce-url]
 - [x] 31 - [Car Shop][Car Shop-url]
-- [x] 32 - [Delivery App][Delivery App-ulr]
+- [x] 32 - [Delivery App][Delivery App-url]
 
 ### 🖥️ Módulo - Ciência da Computação
 
-- [ ] 33 - Job Insights (Início 24/03/2023)
+- [ ] 33 - [Job-Insights][Job-Insights-url]
 - [ ] 34 - Relatório de Estoque
 - [ ] 35 - Tech News
 - [ ] 36 - Algoritmos
@@ -93,4 +93,5 @@ Cada projeto abaixo contém um arquivo README com detalhes de cada projetos.
 [Trybe Football Club-url]: https://github.com/Ludson96/project-trybe-futebol-clube
 [Mongodb Commerce-url]: https://github.com/Ludson96/project-mongodb-commerce
 [Car Shop-url]: https://github.com/Ludson96/project-car-shop
-[Delivery App-ulr]: https://github.com/Ludson96/project-delivery-app
+[Delivery App-url]: https://github.com/Ludson96/project-delivery-app
+[Job-Insights-url]: https://github.com/Ludson96/project-job-insights
