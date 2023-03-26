@@ -55,7 +55,7 @@ Cada projeto abaixo contém um arquivo README com detalhes de cada projetos.
 
 ### 🖥️ Módulo - Ciência da Computação
 
-- [ ] 33 - [Job-Insights][Job-Insights-url]
+- [ ] 33 - [Job Insights][Job-Insights-url]
 - [ ] 34 - Relatório de Estoque
 - [ ] 35 - Tech News
 - [ ] 36 - Algoritmos
