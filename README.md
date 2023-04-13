@@ -55,8 +55,8 @@ Cada projeto abaixo contém um arquivo README com detalhes de cada projetos.
 
 ### 🖥️ Módulo - Ciência da Computação
 
-- [ ] 33 - [Job Insights][Job-Insights-url]
-- [ ] 34 - Relatório de Estoque
+- [ ] 33 - [Job Insights][Job Insights-url]
+- [ ] 34 - [Inventory Report][Inventory Report-url]
 - [ ] 35 - Tech News
 - [ ] 36 - Algoritmos
 - [ ] 37 - TING (Trybe Is Not Google)
@@ -94,4 +94,5 @@ Cada projeto abaixo contém um arquivo README com detalhes de cada projetos.
 [Mongodb Commerce-url]: https://github.com/Ludson96/project-mongodb-commerce
 [Car Shop-url]: https://github.com/Ludson96/project-car-shop
 [Delivery App-url]: https://github.com/Ludson96/project-delivery-app
-[Job-Insights-url]: https://github.com/Ludson96/project-job-insights
+[Job Insights-url]: https://github.com/Ludson96/project-job-insights
+[Inventory Report-url]: https://github.com/Ludson96/project-inventory-report
