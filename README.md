@@ -55,9 +55,9 @@ Cada projeto abaixo contém um arquivo README com detalhes de cada projetos.
 
 ### 🖥️ Módulo - Ciência da Computação
 
-- [ ] 33 - [Job Insights][Job Insights-url]
-- [ ] 34 - [Inventory Report][Inventory Report-url]
-- [ ] 35 - [Tech News][Tech News-url]
+- [X] 33 - [Job Insights][Job Insights-url]
+- [X] 34 - [Inventory Report][Inventory Report-url]
+- [X] 35 - [Tech News][Tech News-url]
 - [ ] 36 - Algoritmos
 - [ ] 37 - TING (Trybe Is Not Google)
 - [ ] 38 - Restaurant Orders
