@@ -58,7 +58,7 @@ Cada projeto abaixo contém um arquivo README com detalhes de cada projetos.
 - [X] 33 - [Job Insights][Job Insights-url]
 - [X] 34 - [Inventory Report][Inventory Report-url]
 - [X] 35 - [Tech News][Tech News-url]
-- [ ] 36 - Algoritmos
+- [X] 36 - [Algorithms][Algorithms-url]
 - [ ] 37 - TING (Trybe Is Not Google)
 - [ ] 38 - Restaurant Orders
 
@@ -97,3 +97,4 @@ Cada projeto abaixo contém um arquivo README com detalhes de cada projetos.
 [Job Insights-url]: https://github.com/Ludson96/project-job-insights
 [Inventory Report-url]: https://github.com/Ludson96/project-inventory-report
 [Tech News-url]: https://github.com/Ludson96/project-tech-news
+[Algorithms-url]: https://github.com/Ludson96/project-algorithms
