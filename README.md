@@ -59,8 +59,8 @@ Cada projeto abaixo contém um arquivo README com detalhes de cada projetos.
 - [X] 34 - [Inventory Report][Inventory Report-url]
 - [X] 35 - [Tech News][Tech News-url]
 - [X] 36 - [Algorithms][Algorithms-url]
-- [ ] 37 - TING (Trybe Is Not Google)
-- [ ] 38 - Restaurant Orders
+- [X] 37 - [TING][TING-url]
+- [X] 38 - [Restaurant Orders][Restaurant Orders-url]
 
 [Lessons Learned-url]: https://github.com/Ludson96/project-lessons-learned
 [Playgound-url]: https://github.com/Ludson96/project-playground-functions
@@ -98,3 +98,5 @@ Cada projeto abaixo contém um arquivo README com detalhes de cada projetos.
 [Inventory Report-url]: https://github.com/Ludson96/project-inventory-report
 [Tech News-url]: https://github.com/Ludson96/project-tech-news
 [Algorithms-url]: https://github.com/Ludson96/project-algorithms
+[TING-url]: https://github.com/Ludson96/project-TING
+[Restaurant Orders-url]: https://github.com/Ludson96/project-restaurant-orders
